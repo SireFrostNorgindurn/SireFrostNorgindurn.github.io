@@ -8,5 +8,5 @@
 0.0.0.0 tiktok.com
 0.0.0.0 onlyfans.com
 0.0.0.0 etoro.com
-0.0.0.0 etoro.com
 0.0.0.0 1nto.com
+0.0.0.0 nya2.com
