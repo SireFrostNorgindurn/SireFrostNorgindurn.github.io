@@ -10,3 +10,4 @@
 0.0.0.0 etoro.com
 0.0.0.0 1nto.com
 0.0.0.0 nya2.com
+0.0.0.0 opera-novosibirsk.ru
